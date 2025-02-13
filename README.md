@@ -6,6 +6,7 @@
     This project leverages YOLO (You Only Look Once) models for real-time pothole detection to enhance road safety and maintenance. By utilizing deep learning and computer vision, this solution enables efficient, automated, and cost-effective pothole detection through video footage captured by vehicles.
 
     Dataset Link : https://drive.google.com/file/d/1qEBV9wqBzuLbUBFnV_GBROCJLSoygrUT/view
+    Output Video Link after applying YOLOV10n model : https://drive.google.com/file/d/1Qm3A7G3lJha_4IugQAhVfgAz7DwmUZtk/view?usp=sharing
 
 # Key Features
 
